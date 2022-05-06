@@ -1,0 +1,2 @@
+python TEM_train.py --model_path models/Charades --info_path data/charades_annotations/charades_video_info.csv --anno_path data/charades_annotations/charades_annotations.json --feature_path data/charades_feature_cuhk/
+

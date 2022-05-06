@@ -1,0 +1,2 @@
+model_checkpoint_path: "tem_model_checkpoint"
+all_model_checkpoint_paths: "tem_model_checkpoint"
